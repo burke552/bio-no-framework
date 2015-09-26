@@ -1,0 +1,52 @@
+@charset "utf-8";
+p {
+  font-family: Arial;
+  color: #962712;
+}
+body {
+  background-color: #FFFF66;
+}
+h1 {
+  font-family: Arial;
+  color: #962712;
+}
+
+article{
+   text-align: center;
+}
+   
+h2 {
+  font-family: Arial;
+  color: #962712;
+}
+
+h3 {
+   font-family: Arial;
+   color: #962712;
+   text-align: center;
+}
+
+i {
+  font-family: Helvetica;
+  color: #ce82de;
+}
+
+p#introduction{
+   margin-left: auto;
+   margin-right: auto;
+   width: 6em
+   font-size: 36px;
+}
+
+img {
+   margin-right: auto;
+   margin-left: auto;
+   display: block;
+}
+ul {
+   list-style-type: none;
+}
+u {
+  font-family: Times New Roman;
+  color: #0082de;
+}
